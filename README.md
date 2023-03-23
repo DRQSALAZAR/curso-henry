@@ -1,2 +1,1 @@
-# curso-henry
-este es un repositorio de prueba
+este es proyecto de prueba de repositorio
